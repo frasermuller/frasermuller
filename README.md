@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Backend development & Machine Learning**
 
-- 📫 How to reach me **frasermuller2005@gmail.com**
+- 📫 Contact me at **frasermuller2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
