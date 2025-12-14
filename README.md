@@ -2,7 +2,7 @@
 
 ### Im a 3rd-year Computer Science Student at UBCO
 
-- 🔭 I'm currently working on **NBA game predictor using Machine Learning & Full-stack Amazon clone**
+- 🔭 I'm currently working on **NBA game predictor using Machine Learning & My Portfolio**
 
 - 🌱 I'm currently learning **Backend development & Machine Learning**
 
