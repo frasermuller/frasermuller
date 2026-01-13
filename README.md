@@ -2,9 +2,9 @@
 
 ### Im a 3rd-year Computer Science Student at UBCO
 
-- 🔭 I'm currently working on **NBA game predictor using Machine Learning & My Portfolio**
+- 🔭 I'm currently a **Research Assistant/Software Developer for HelpMe**
 
-- 🌱 I'm currently learning **Backend development & Machine Learning**
+- 🌱 I'm currently learning **Backend & Frontend Development, TypeScript**
 
 - 📫 Contact me at **frasermuller2005@gmail.com**
 
